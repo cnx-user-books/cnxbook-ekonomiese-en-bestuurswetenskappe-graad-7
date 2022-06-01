@@ -1,0 +1,157 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inligtingstegnologie in bestuur en administrasie</title>
+  <metadata>
+  <md:content-id>m24603</md:content-id><md:title>Inligtingstegnologie in bestuur en administrasie</md:title>
+  <md:abstract/>
+  <md:uuid>f0264548-0971-46ef-82de-c5aec5ce514c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id10897466">
+      <title>EKONOMIESE EN BESTUURSWETENSKAPPE</title>
+      <para id="para-id10897466">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10913803">
+      <title>Graad 7</title>
+      <para id="para-id10913803">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3323521">
+      <title>TELEKOMMUNIKASIEDIENSTE</title>
+      <para id="para-id3323521">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14684250">
+      <title>Module 18</title>
+      <para id="para-id14684250">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14420922">
+      <title>INLIGTINGSTEGNOLOGIE IN BESTUUR EN ADMINISTRASIE</title>
+      <para id="id3365192">1.  Wat is inligtingstegnologie?</para>
+      <para id="id5149465">Inligtingstegnologie (IT) word aangewend om inligting te bestuur en te prosesseer, veral in besighede. Dit word gedoen deur die gebruik van elektroniese rekenaars en rekenaarsagteware wat die inligting verwerk, beskerm, stoor en herwin.</para>
+      <list id="id6054329" list-type="enumerated" number-style="arabic">
+        <item>Wat is ‘n databasis?</item>
+      </list>
+      <para id="id5363568">‘n Databasis is ‘n georganiseerde versameling data of inligting. Vroeër is alle inligting van ‘n sake-onderneming in lêers in liasseerkabinette gebêre deur die sekretaresse. Gewoonlik is hierdie dokumente volgens onderwerpe gerangskik, of alfabeties, of volgens datums, ens. Daar moes ‘n <emphasis effect="bold">sisteem </emphasis>wees sodat inligting vinnig en doeltreffend opgespoor kon word. Die sekretaresse moes dus gereeld nuwe dokumente met die hand liasseer.</para>
+      <para id="id14331428">‘n Elektroniese databasis is ‘n versameling rekords wat ook volgens ‘n sisteem in ‘n rekenaar gestoor word sodat ‘n rekenaarprogram gebruik kan word om die rekords te raadpleeg. Met ander woorde, die<emphasis effect="bold"> inligting</emphasis> van die maatskappy word op die hardeskyf van ‘n rekenaar <emphasis effect="bold">bewaar</emphasis>, en dit word deur ‘n rekenaarprogram <emphasis effect="bold">bestuur</emphasis>.</para>
+      <list id="id3084183" list-type="enumerated" number-style="arabic">
+        <item>Watter inligting word in die databasis bewaar?</item>
+      </list>
+      <para id="id7653655">Alle rekords van ‘n onderneming (groothandel en kleinhandel) word op die databasis gestoor. Dit sluit onder andere die volgende in:</para>
+      <list id="id14287929" list-type="bulleted">
+        <item>aankope</item>
+      </list>
+      <list id="id12063881" list-type="bulleted">
+        <item>voorraad </item>
+        <item>vervaardiging</item>
+        <item>bestellings</item>
+        <item>verkope </item>
+        <item>personeelinligting en –verslae</item>
+        <item>kliëntebasis</item>
+        <item>bemarkingsverslae</item>
+        <item>beplanning</item>
+        <item>inkomste en uitgawes</item>
+      </list>
+      <para id="id5888595">Met ander woorde, alle fasette van die onderneming waarvan daar rekord gehou moet word, se “papierwerk” moet elektronies bewaar word.</para>
+      <para id="id14477657">4. Vir wie is die inligting op die onderneming se databasis  belangrik?</para>
+      <para id="id13693021">a) Op bestuursvlak is dit die volgende:</para>
+      <list id="id9943725" list-type="bulleted">
+        <item>Die hoofbestuurder</item>
+      </list>
+      <para id="id14260761">Vir die hoofbestuurder is dit belangrik om onmiddellike toegang tot alle inligting rakende die onderneming te hê.</para>
+      <list id="id14260765" list-type="bulleted">
+        <item>Die bemarkings- en verkoopsbestuurder</item>
+      </list>
+      <para id="id14169478">Verkoopstatistieke is van die belangrikste inligting waarmee die verkoops- en bemarkingsbestuurder werk. Dit bepaal die verkoopstrategieë wat hulle volg om verkope te genereer.</para>
+      <list id="id14199693" list-type="bulleted">
+        <item>Die personeelbestuurder</item>
+      </list>
+      <para id="id11961282">Inligting oor elke werknemer word op die databasis bewaar sodat die personeelbestuurder dit kan oproep indien nodig. Dit sluit in vorderingsverslae, prestasiebeoordelings, oortredings, salarisse, werksvoordele, ens.</para>
+      <list id="id9000396" list-type="bulleted">
+        <item>Die finansiële bestuurder</item>
+      </list>
+      <para id="id13742102">Alle inligting ten opsigte van inkomste en uitgawes moet beskikbaar wees vir die opstel van finansiële maand- en jaarstate. Die maatskappy se kontantvloeistaat word bestuur aan die hand van die inligting op die databasis. Alle inligting rakende finansies moet onmiddellik beskikbaar wees.</para>
+      <para id="id3405853">Afhangende van die aard van die besigheid, sal daar ook ander bestuurders wees in die onderneming, byvoorbeeld afdelingsbestuurders, seksiebestuurders, ens. Almal maak deurentyd gebruik van inligting op die maatskappy se databasis om hulle take doeltreffend uit te voer. Hulle genereer ook inligting wat op die databasis opgeneem moet word. </para>
+      <para id="id11714363"/>
+      <para id="id6021046">b) Op administratiewe vlak is dit die volgende:</para>
+      <para id="id14461186">Die administratiewe of klerklike personeel is veral verantwoordelik vir die boekhouding en rekordhouding van die maatskappy. Dit sluit in alle finansiële transaksies wat betrekking het op inkomste en uitgawes, die betaal van rekenings (krediteure) en die uitstuur van rekenings (debiteure). Daar moet ook deurentyd rekord gehou word van voorraad. Salarisse moet betaal word. Die inligting wat betrekking het op hierdie aspekte, word alles op die databasis gestoor.</para>
+    </section>
+    <section id="id13711225">
+      <title>Aktiwiteit 1:</title>
+      <para id="para-id13711225">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14323795">
+      <title>Om met die hulp van inligting op rekenaar ‘n opdrag uit te voer</title>
+      <para id="para-id14323795">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14672250">
+      <title>[LU 3.3]</title>
+      <para id="id14314207">Die bestuurder het die volgende opdrag aan julle afdeling gegee wat dringend uitgevoer moet word:</para>
+      <para id="id11048095">Ons het so pas verneem dat die regering se departement van behuising ons tender aanvaar het vir die lewering van 200 staalvensterrame. Die bestelling moet binne 30 dae uitgevoer word anders verloor ons die tender. Vind dadelik uit of dit vir ons moontlik gaan wees. Ek moet binne ‘n halfuur weet. Al die inligting is op die maatskappy se databasis.”</para>
+      <para id="id10061190">Hoe sal julle te werk gaan om die opdrag uit te voer? Beantwoord die vrae deur gebruik te maak van die leidraad tussen hakies.</para>
+      <para id="id12143703">1. Wat gaan julle heel eerste doen? (voorraad)</para>
+      <para id="id14532585">2. As daar nie genoeg rame in voorraad by die hoofkantoor is nie, wat dan? (takke)</para>
+      <para id="id12201590">3. As daar nog steeds nie genoeg is nie, wat dan? (vervaardiging)</para>
+      <para id="id6380361">4. Gaan die prys van die nuwe rame dieselfde wees as die ou rame? (prysstyging)</para>
+      <para id="id11981430">5. Gaan daar genoeg tyd wees?</para>
+    </section>
+    <section id="id5802379">
+      <title>Assessering</title>
+      <table id="id10452193" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 3</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">BESTUURS-, VERBRUIKERS- EN FINANSI</emphasis><emphasis effect="bold">Ë</emphasis><emphasis effect="bold">LE KENNIS EN VAARDIGHEDE</emphasis>Die leerder is in staat om kennis en die vermoë te toon om verskeie bestuurs-, verbruikers- en finansiële vaardighede toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder die volgende doen:</entry>
+            </row>
+            <row>
+              <entry>3.3 die belangrikheid van administrasie in die bestuur van ‘n sakeonderneming bespreek;</entry>
+            </row>
+            <row>
+              <entry>3.4 die gebruik van tegnologie in telekommunikasiedienste (bv. selfone) en finansiële transaksies (bv. OTM, internet) in die verbetering van administrasie, kommunikasie en toegang tot inligting bespreek.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4680644">
+      <title>Memorandum</title>
+      <para id="id14686197">Aktiwiteit 1</para>
+      <list id="id14483660" list-type="bulleted">
+        <item>Uit die aard van die saak sal al die inligting op die onderneming se databasis gevind word.</item>
+      </list>
+      <list id="id14528054" list-type="enumerated" number-style="arabic">
+        <item>Die voorraadstatistiek sal geraadpleeg word om te bepaal hoeveel daar van die betrokke item in die stoor is.</item>
+        <item>Die voorraad wat by die takke van die onderneming is, sal ook op die databasis verskyn.</item>
+        <item>Indien daar nog steeds nie genoeg vensters is om die bestelling op tender uit te voer nie, sal daar dringend gekyk moet word na ‘n bestelling vir nuwe voorraad. Die besonderhede van die vervaardiger behoort ook op die databasis beskikbaar te wees.</item>
+        <item>‘n Kwotasie sal onmiddellik by die vervaardiger aangevra word. Dit sal vergelyk word met die kwotasie van die vorige bestelling wat ook op die databasis gestoor word. Na alle waarskynlikheid sal die nuwe kwotasie meer wees as die vorige kwotasie as gevolg van stygende kostes, ens. Uit die aard van die saak sal die wins laer wees want die tenderprys sal nie verander kan word nie.</item>
+      </list>
+      <para id="id14287674">5. Indien die gebrek aan tyd ‘n faktor is, sal die vervaardiger gevra moet word om oortyd te werk. Dit bring addisionele kostes mee. Maar dan weer kan die onderneming die tender verloor indien die bestelling nie betyds uitgevoer kan word nie.</para>
+    </section>
+  </content>
+</document>
